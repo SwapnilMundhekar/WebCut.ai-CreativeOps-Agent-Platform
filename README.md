@@ -9,7 +9,7 @@ Modern GitHub README
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Amazon+Bedrock+Agents+%2B+Knowledge+Bases+%2B+Guardrails;FastAPI+%2B+Next.js+%2B+Python+AI+Services;LangGraph+%2B+LangChain+%2B+n8n+%2B+MCP+Adapters;Canva-style+CreativeOps+SaaS+for+Ecommerce+Teams;Built+for+AWS+GenAI+Developer+Professional+Revision" alt="Animated technology summary" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Amazon+Bedrock+Agents+%2B+Knowledge+Bases+%2B+Guardrails;FastAPI+%2B+Next.js+%2B+Python+AI+Services;LangGraph+%2B+LangChain+%2B+n8n+%2B+MCP+Adapters;Online content creation+CreativeOps+SaaS+for+Ecommerce+Teams;Built+for+AWS+GenAI+Developer+Professional+Revision" alt="Animated technology summary" />
 
 <br />
 
