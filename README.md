@@ -54,41 +54,13 @@ WebCut.ai is being built as a creative operating system for modern content teams
 | Governance | Guardrails, human approval, audit logs, cost tracking, and compliance checks |
 
 ---
+## Product Mission
 
-## Why This Project Exists
+WebCut.ai is being built as a modern AI creative operations platform that helps users create, enhance, automate, govern, and export high quality digital content from one place.
 
-This project has two clear goals.
+The platform brings together content creation, media intelligence, brand grounded AI generation, workflow automation, and production grade cloud architecture into a single system.
 
-### 1. Job readiness
-
-WebCut.ai is designed to prove practical capability for roles such as:
-
-- AI Engineer
-- Generative AI Developer
-- Agentic AI Engineer
-- Full Stack AI Engineer
-- Python Backend Engineer
-- AWS AI Engineer
-- Automation Engineer
-- Applied Machine Learning Engineer
-- Creative AI Engineer
-
-### 2. AWS Generative AI Developer Professional preparation
-
-The project maps directly to important AWS Generative AI Developer Professional concepts:
-
-- Amazon Bedrock model invocation
-- Bedrock Agents and action groups
-- Bedrock Knowledge Bases for RAG
-- Bedrock Guardrails for safety and governance
-- AWS Lambda tool execution
-- Step Functions workflow orchestration
-- S3 based asset and document storage
-- OpenSearch Serverless vector search
-- IAM, KMS, Secrets Manager, Cognito, CloudWatch, and X-Ray
-- Cost, latency, reliability, and troubleshooting patterns
-
----
+It is designed to support real creative workflows across social media, ecommerce, marketing, video, audio, and brand operations.
 
 ## Nebula Flux Design Identity
 
