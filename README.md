@@ -9,7 +9,7 @@ Modern GitHub README
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Amazon+Bedrock+Agents+%2B+Knowledge+Bases+%2B+Guardrails;FastAPI+%2B+Next.js+%2B+Python+AI+Services;LangGraph+%2B+LangChain+%2B+n8n+%2B+MCP+Adapters;Canva-style+CreativeOps+SaaS+for+Ecommerce+Teams;Built+for+AWS+GenAI+Developer+Professional+Revision" alt="Animated technology summary" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Amazon+Bedrock+Agents+%2B+Knowledge+Bases+%2B+Guardrails;FastAPI+%2B+Next.js+%2B+Python+AI+Services;LangGraph+%2B+LangChain+%2B+n8n+%2B+MCP+Adapters;one stop online content creation+CreativeOps+SaaS+for+Ecommerce+Teams;Built+for+AWS+GenAI+Developer+Professional+Revision" alt="Animated technology summary" />
 
 <br />
 
@@ -37,7 +37,7 @@ Modern GitHub README
 
 **WebCut.ai CreativeOps Agent Platform** is an AWS native, full stack, agentic AI platform for generating brand compliant ecommerce and social media creative assets.
 
-The project combines a **Canva style design experience** with **Amazon Bedrock powered AI agents**, **Retrieval Augmented Generation**, **image processing**, **workflow automation**, **cloud security**, **observability**, and **modern AI framework adapters**.
+The project combines a **one stop online content creation design experience** with **Amazon Bedrock powered AI agents**, **Retrieval Augmented Generation**, **image processing**, **workflow automation**, **cloud security**, **observability**, and **modern AI framework adapters**.
 
 It is designed as a flagship portfolio project for:
 
@@ -307,7 +307,7 @@ flowchart LR
 | Brand RAG Agent | Retrieves brand rules, tone, visual identity, product facts, and citations |
 | Product Intelligence Agent | Extracts useful product information from image, CSV, or Shopify input |
 | Creative Director Agent | Defines creative concept, target audience, asset set, and messaging angle |
-| Design Agent | Produces editable layout JSON for the Canva style editor |
+| Design Agent | Produces editable layout JSON for the one stop online content creation editor |
 | Copywriting Agent | Generates headlines, captions, descriptions, and search engine copy |
 | Image Editing Tool Agent | Runs background removal, crop, enhancement, object cleanup, and export tools |
 | Compliance Agent | Checks brand consistency, safety, unsupported claims, and policy risk |
@@ -562,7 +562,7 @@ gantt
 
     section Phase 4 Product Experience
     Next.js dashboard                       :p4a, 2026-06-15, 4d
-    Canva style editor                      :p4b, 2026-06-19, 5d
+    one stop online content creation editor                      :p4b, 2026-06-19, 5d
     Export service                          :p4c, 2026-06-24, 3d
 
     section Phase 5 Advanced Integrations
@@ -961,7 +961,7 @@ Permission principle:
 - Build Next.js dashboard
 - Add creative generation form
 - Add editable design preview
-- Add Canva style editor
+- Add one stop online content creation editor
 - Add asset history
 - Add export buttons
 
@@ -1022,7 +1022,7 @@ This project demonstrates:
 
 ## Interview Pitch
 
-> WebCut.ai is my flagship full stack AI engineering project. It is a Canva style creative automation platform where ecommerce teams upload product data and brand guides, then AWS powered AI agents generate editable, brand compliant creative assets. The production backbone uses Amazon Bedrock, Bedrock Agents, Knowledge Bases, Guardrails, Lambda action groups, Step Functions, S3, OpenSearch Serverless, FastAPI, Next.js, and CloudWatch. Around that core, I built adapters for LangGraph, LangChain, n8n, MCP, and local model experimentation so I can compare orchestration patterns and production trade offs.
+> WebCut.ai is my flagship full stack AI engineering project. It is a one stop online content creation creative automation platform where ecommerce teams upload product data and brand guides, then AWS powered AI agents generate editable, brand compliant creative assets. The production backbone uses Amazon Bedrock, Bedrock Agents, Knowledge Bases, Guardrails, Lambda action groups, Step Functions, S3, OpenSearch Serverless, FastAPI, Next.js, and CloudWatch. Around that core, I built adapters for LangGraph, LangChain, n8n, MCP, and local model experimentation so I can compare orchestration patterns and production trade offs.
 
 ---
 
