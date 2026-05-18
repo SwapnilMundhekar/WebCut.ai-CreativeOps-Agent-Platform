@@ -14,3 +14,7 @@ pnpm-debug.log*
 .DS_Store
 Thumbs.db
 backup_before_webcut_part1/
+
+# Local one-off generator scripts
+setup_webcut_part*.py
+write_webcut_readme_and_push.py
